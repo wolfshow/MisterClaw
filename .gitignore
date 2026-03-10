@@ -1,0 +1,4 @@
+# Ignore local config with API keys — never commit your keys!
+config.json
+*.env
+.env*
