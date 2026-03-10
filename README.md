@@ -1,6 +1,4 @@
-# MisterClaw
-
-**The world's first PicoClaw installation on MiSTer FPGA.**
+# MisterClaw: World's first PicoClaw AI assistant on MiSTer FPGA (DE10-Nano)
 
 Run an ultra-lightweight AI assistant directly on your MiSTer FPGA (DE10-Nano) to help you manage settings, get game recommendations, troubleshoot issues, and chat — all from the device itself.
 
