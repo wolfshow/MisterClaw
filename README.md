@@ -28,6 +28,12 @@ Run an ultra-lightweight AI assistant directly on your MiSTer FPGA (DE10-Nano) t
 
 ---
 
+## Video Tutorial
+
+[![MisterClaw Video](https://img.youtube.com/vi/CK4210q3k4Y/0.jpg)](https://www.youtube.com/watch?v=CK4210q3k4Y&t=17s)
+
+---
+
 ## Requirements
 
 | Item | Details |
